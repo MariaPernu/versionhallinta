@@ -3,3 +3,6 @@ leipä
 voi
 juusto
 mehu
+kahvi
+leikkele
+suola
